@@ -1,2 +1,2 @@
-# wizard-strike
+# Wizard Strike
 Multiplayer FPS with RPG elements
